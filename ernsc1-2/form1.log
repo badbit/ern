@@ -1,0 +1,8 @@
+Line 41: Class mplayerCtl.mplayer of control mplayer1 was not a loaded control class.
+Line 49: Class ComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 44: The property name OleObjectBlob in mplayer1 is invalid.
+Line 56: The property name _ExtentX in StatusBar1 is invalid.
+Line 57: The property name _ExtentY in StatusBar1 is invalid.
+Line 58: The property name SimpleText in StatusBar1 is invalid.
+Line 59: The property name _Version in StatusBar1 is invalid.
+Line 97: The property name Panels in StatusBar1 is invalid.
